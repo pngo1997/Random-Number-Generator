@@ -6,7 +6,7 @@ This project explores pseudo-random number generation (PRNG) using the text of W
 In many applications, random numbers are critical, such as in cryptography, simulations, and statistical sampling. Traditional PRNGs rely on mathematical functions, but this project investigates whether a novel PRNG approach using the text of War and Peace can provide a viable alternative.
 
 1. War and Peace PRNG:
-- Extracts numerical values from the text.
+- Extracts individual words from the text.
 - Uses them to generate sequences of random numbers.
 - Compares its performance against traditional PRNG methods.
 2. Evaluation Metrics:
